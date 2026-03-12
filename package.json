@@ -1,0 +1,26 @@
+{
+  "name": "future-fluent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build complete - Static site ready'",
+    "start": "serve -p 3000",
+    "lint": "htmlhint index.html && eslint script.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-beautify": "^1.15.4",
+    "puppeteer": "^24.39.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.3",
+    "globals": "^17.4.0",
+    "htmlhint": "^1.9.2",
+    "serve": "^14.2.6"
+  }
+}

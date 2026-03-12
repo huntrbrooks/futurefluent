@@ -1,0 +1,119 @@
+/* Mobile & Tablet Overrides */
+
+/* --- Base Form Adjustments --- */
+input, textarea, select {
+    font-size: 16px !important; /* Prevents auto-zoom on iOS Safari */
+}
+
+/* --- Navigation --- */
+@media (max-width: 768px) {
+    nav {
+        padding: 10px 15px !important;
+    }
+    nav .brand-gradient {
+        width: 32px;
+        height: 32px;
+    }
+    nav span.text-xl {
+        font-size: 1.25rem !important;
+    }
+}
+
+/* --- Hero Section --- */
+@media (max-width: 640px) {
+    section.relative.min-h-screen {
+        min-height: 80vh !important;
+        padding-top: 5rem;
+    }
+    h1 {
+        font-size: 2.5rem !important; 
+        line-height: 1.2 !important;
+    }
+    p.text-base {
+        font-size: 1rem !important;
+        padding: 0 15px;
+    }
+    section button {
+        width: 100% !important;
+    }
+    section a.group.w-full {
+        width: 100% !important;
+    }
+}
+
+/* --- ROI Calculator Layout Fixes --- */
+@media (max-width: 1024px) {
+    .glassmorphism {
+        padding: 20px !important;
+    }
+    .grid-cols-1.lg\:grid-cols-2 {
+        gap: 2rem !important;
+    }
+}
+
+@media (max-width: 640px) {
+    .brand-gradient-text {
+        font-size: 1.25rem !important;
+    }
+    /* Fix overlap in potential savings box */
+    .bg-gradient-to-r.from-\[\#8B00FF\]\/20 {
+        flex-direction: column !important;
+        align-items: center !important;
+        text-align: center;
+        padding: 1.5rem !important;
+    }
+    .bg-gradient-to-r.from-\[\#8B00FF\]\/20 span.text-2xl {
+        font-size: 2rem !important;
+        margin-top: 10px;
+    }
+}
+
+/* --- Services Grid --- */
+@media (max-width: 768px) {
+    .grid-cols-1.md\:grid-cols-2.lg\:grid-cols-3 {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* --- Pricing Blocks --- */
+@media (max-width: 1024px) and (min-width: 768px) {
+    .grid-cols-1.lg\:grid-cols-3.xl\:grid-cols-5 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .grid-cols-1.lg\:grid-cols-3.xl\:grid-cols-5 {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* --- Process Grid (4 Steps) --- */
+@media (max-width: 1024px) {
+    .grid-cols-1.md\:grid-cols-2.lg\:grid-cols-4 {
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 1.5rem;
+    }
+    /* Hide decorative connecting lines on tablet */
+    .hidden.lg\:block.absolute {
+        display: none !important;
+    }
+}
+
+@media (max-width: 640px) {
+    .grid-cols-1.md\:grid-cols-2.lg\:grid-cols-4 {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* --- Results Stats --- */
+@media (max-width: 640px) {
+    .grid-cols-1.md\:grid-cols-2.lg\:grid-cols-4 {
+        grid-template-columns: 1fr !important;
+    }
+    /* Adjust text size in stat boxes */
+    .text-3xl {
+        font-size: 2rem !important;
+    }
+}
+
