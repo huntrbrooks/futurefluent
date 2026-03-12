@@ -1,4 +1,7 @@
 {
   "outputDirectory": "public",
-  "buildCommand": "npm run build"
+  "buildCommand": "npm run build",
+  "env": {
+    "PUPPETEER_SKIP_DOWNLOAD": "true"
+  }
 }
