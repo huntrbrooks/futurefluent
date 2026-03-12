@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "echo 'Build complete - Static site ready'",
-    "start": "serve -p 3000",
-    "lint": "htmlhint index.html && eslint script.js",
+    "start": "serve public -p 3000",
+    "lint": "htmlhint public/index.html && eslint public/script.js",
     "test": "node test.js"
   },
   "keywords": [],
