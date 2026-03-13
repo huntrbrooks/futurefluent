@@ -1,0 +1,51 @@
+# FutureFluent
+
+> FutureFluent builds AI receptionists and automation workflows for growing businesses. We handle calls, bookings, and admin 24/7 — so your team focuses on what matters.
+
+## What We Do
+
+FutureFluent is an AI automation company specialising in:
+
+- **AI Receptionist**: Voice AI that answers calls, books appointments, routes enquiries, and handles FAQs around the clock. Never miss a lead again.
+- **Business Automation**: Custom n8n workflows, AI agents, and integrations that eliminate repetitive admin tasks.
+- **RAG & MCP Pipelines**: Retrieval-Augmented Generation and Model Context Protocol implementations that give AI agents access to your business knowledge.
+- **IoT Solutions**: Connecting physical systems to intelligent automation layers.
+- **Web Apps**: Custom web applications built around automation workflows.
+- **Integrations**: Connecting your CRM, calendar, phone system, and databases into a unified intelligent layer.
+
+## Pricing
+
+AI Receptionist plans:
+- Starter Reception: $199/month (setup $1,500) — 150 mins included. Best for: sole traders and small teams.
+- Core Reception: $399/month (setup $2,500) — 300 mins included. Best for: established small businesses.
+- Growth Reception: $649/month (setup $3,500) — 300 mins included. Best for: agencies, clinics, legal firms.
+- Scale Pro: $949/month (setup $5,000) — 500 mins included. Best for: multi-location, regulated, or high-volume organisations.
+- Enterprise+: Custom pricing. For large-scale custom deployments.
+
+## Who We Help
+
+FutureFluent serves:
+- Small businesses that miss calls and lose leads
+- Medical practices needing 24/7 patient intake
+- Legal firms handling high volumes of enquiries
+- Marketing agencies managing client communications
+- Multi-location businesses needing consistent call handling
+- Any business wanting to scale without adding headcount
+
+## ROI
+
+Businesses using FutureFluent automation typically save 40% of the time their staff spend on inbound communications. For a team of 5 people earning $60,000/year spending 20 hours/week on calls and admin, that's approximately $62,400 in recovered productivity per year.
+
+## Contact
+
+Book a free strategy call: https://www.futurefluent.io/#roi-calculator
+Contact page: https://www.futurefluent.io/contact.html
+
+## Key Pages
+
+- Homepage: https://www.futurefluent.io/
+- Contact: https://www.futurefluent.io/contact.html
+- Blog: https://www.futurefluent.io/blog.html
+- Careers: https://www.futurefluent.io/careers.html
+- Privacy Policy: https://www.futurefluent.io/privacy.html
+- Terms of Service: https://www.futurefluent.io/terms.html

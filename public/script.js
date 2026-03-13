@@ -107,7 +107,7 @@ buttons.forEach(btn => {
              if(pricingSection){
                  pricingSection.scrollIntoView({ behavior: 'smooth' });
              }
-        } else if (btnText.includes('get in touch') || btnText.includes('call') || btnText.includes('demo') || btnText.includes('started')) {
+        } else if (btnText.includes('get in touch') || btnText.includes('call') || btnText.includes('demo') || btnText.includes('started') || btnText.includes('start small') || btnText.includes('specialist') || btnText.includes('proposal') || btnText.includes('consultation') || btnText.includes('get started') || btnText.includes('book')) {
             // Scroll to the "Contact / Strategy" form near ROI Calculator
             const formSection = document.querySelector('form').closest('.glassmorphism');
             if (formSection) {
