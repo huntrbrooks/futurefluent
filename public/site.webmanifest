@@ -1,0 +1,21 @@
+{
+  "name": "FutureFluent",
+  "short_name": "FutureFluent",
+  "description": "AI Receptionist & Automation for Growing Businesses",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#000000",
+  "theme_color": "#8B00FF",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
